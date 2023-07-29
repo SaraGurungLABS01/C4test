@@ -1,1 +1,4 @@
-x=1 y=2 total=x+y print(total)
+x=1 
+y=2 
+total=x+y 
+print(total)
